@@ -42,7 +42,7 @@ streamlit run main_streamlit.py
 ```
 By default, main_streamlit.py is set to use a static PDF path. You can change the file path directly in the script.
 
-📚 What's Inside?
+## 📚 What's Inside?
 This repo uses LangChain as the framework to integrate with open-source LLMs and Retrieval-Augmented Generation (RAG). Here's a brief of what it does:
 
 - 🔍 PDF Parsing using PyMuPDF
